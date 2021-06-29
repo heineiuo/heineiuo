@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
+
 **heineiuo/heineiuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,13 +18,30 @@ Here are some ideas to get you started:
 -->
 
 
+<table style="border-collapse: collapse;  border: 1px solid black;">
+  <tbody>
+     <tr>
+       <td style=" border: 1px solid black;">
+         <img src="https://badges.pufler.dev/visits/heineiuo/heineiuo?style=for-the-badge" />
+       </td>
+    </tr>
+  </tbody>
+</table>
 
-![Zejin Github Visitors](https://badges.pufler.dev/visits/heineiuo/heineiuo?style=for-the-badge)
+<table style="border-collapse: collapse;  border: 1px solid black;">
+  <tbody>
+     <tr>
+       <td style=" border: 1px solid black;">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=heineiuo" />
+       </td>
+       <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=heineiuo&show_icons=true&count_private=true&include_all_commits=true" />
+       </td>
+    </tr>
+  </tbody>
+</table>
 
 
-![Zejin Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=heineiuo)
-
-![Zejin Github Stats](https://github-readme-stats.vercel.app/api?username=heineiuo&show_icons=true&count_private=true&include_all_commits=true)
 
 
 
