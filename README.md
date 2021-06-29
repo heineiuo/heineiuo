@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Zejin Github Visitors](https://badges.pufler.dev/visits/heineiuo/heineiuo?style=for-the-badge)
+
+
+![Zejin Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=heineiuo)
+
+![Zejin Github Stats](https://github-readme-stats.vercel.app/api?username=heineiuo&show_icons=true&count_private=true&include_all_commits=true)
+
+
+
